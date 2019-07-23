@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:/Maven/client-service/client-service.iml" filepath="C:/Maven/client-service/client-service.iml" />
+      <module fileurl="file://C:/Maven/spring-cloud-config-server/spring-cloud-config-server.iml" filepath="C:/Maven/spring-cloud-config-server/spring-cloud-config-server.iml" />
+    </modules>
+  </component>
+</project>
