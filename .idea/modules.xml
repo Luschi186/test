@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://C:/Maven/client-service/client-service.iml" filepath="C:/Maven/client-service/client-service.iml" />
+      <module fileurl="file://C:/Maven/currency-conversion-service/currency-conversion-service.iml" filepath="C:/Maven/currency-conversion-service/currency-conversion-service.iml" />
+      <module fileurl="file://C:/Maven/currency-exchange-service/currency-exchange-service.iml" filepath="C:/Maven/currency-exchange-service/currency-exchange-service.iml" />
+      <module fileurl="file://C:/Maven/interceptor/interceptor.iml" filepath="C:/Maven/interceptor/interceptor.iml" />
+      <module fileurl="file://C:/Maven/netflix-eureka-naming-server/netflix-eureka-naming-server.iml" filepath="C:/Maven/netflix-eureka-naming-server/netflix-eureka-naming-server.iml" />
+      <module fileurl="file://C:/Maven/netflix-zuul-api-gateway-server/netflix-zuul-api-gateway-server.iml" filepath="C:/Maven/netflix-zuul-api-gateway-server/netflix-zuul-api-gateway-server.iml" />
       <module fileurl="file://C:/Maven/spring-cloud-config-server/spring-cloud-config-server.iml" filepath="C:/Maven/spring-cloud-config-server/spring-cloud-config-server.iml" />
+      <module fileurl="file://C:/Maven/spring-config-prop/spring-config-prop.iml" filepath="C:/Maven/spring-config-prop/spring-config-prop.iml" />
+      <module fileurl="file://C:/Maven/test-service/test-service.iml" filepath="C:/Maven/test-service/test-service.iml" />
     </modules>
   </component>
 </project>

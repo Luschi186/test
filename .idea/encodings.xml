@@ -3,6 +3,15 @@
   <component name="Encoding">
     <file url="file://C:/Maven/client-service" charset="UTF-8" />
     <file url="file://C:/Maven/config.client" charset="UTF-8" />
+    <file url="file://C:/Maven/currency-conversion-service" charset="UTF-8" />
+    <file url="file://C:/Maven/currency-exchange-service" charset="UTF-8" />
+    <file url="file://C:/Maven/eureka-employee-consumer-zuul" charset="UTF-8" />
+    <file url="file://C:/Maven/eureka-server" charset="UTF-8" />
+    <file url="file://C:/Maven/interceptor" charset="UTF-8" />
+    <file url="file://C:/Maven/netflix-eureka-naming-server" charset="UTF-8" />
+    <file url="file://C:/Maven/netflix-zuul-api-gateway-server" charset="UTF-8" />
     <file url="file://C:/Maven/spring-cloud-config-server" charset="UTF-8" />
+    <file url="file://C:/Maven/spring-config-prop" charset="UTF-8" />
+    <file url="file://C:/Maven/test-service" charset="UTF-8" />
   </component>
 </project>

@@ -6,21 +6,43 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="client-service" />
+        <module name="netflix-zuul-api-gateway-server" />
+        <module name="test-service" />
+        <module name="interceptor" />
+        <module name="netflix-eureka-naming-server" />
+        <module name="currency-conversion-service" />
+        <module name="spring-config-prop" />
+        <module name="currency-exchange-service" />
         <module name="spring-cloud-config-server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="client-service" target="1.8" />
       <module name="config.client" target="1.8" />
+      <module name="currency-conversion-service" target="1.8" />
+      <module name="currency-exchange-service" target="1.8" />
+      <module name="employee-consumer" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="interceptor" target="1.8" />
+      <module name="netflix-eureka-naming-server" target="1.8" />
+      <module name="netflix-zuul-api-gateway-server" target="1.8" />
       <module name="spring-cloud-config-server" target="1.8" />
+      <module name="spring-config-prop" target="1.8" />
+      <module name="test-service" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="client-service" options="-parameters" />
       <module name="config.client" options="-parameters" />
+      <module name="currency-conversion-service" options="" />
+      <module name="currency-exchange-service" options="" />
+      <module name="interceptor" options="-parameters" />
+      <module name="netflix-eureka-naming-server" options="-parameters" />
+      <module name="netflix-zuul-api-gateway-server" options="-parameters" />
       <module name="spring-cloud-config-server" options="-parameters" />
+      <module name="spring-config-prop" options="-parameters" />
+      <module name="test-service" options="-parameters" />
     </option>
   </component>
 </project>

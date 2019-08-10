@@ -4,11 +4,17 @@
     <option name="originalFiles">
       <list>
         <option value="C:/Maven/spring-cloud-config-server/pom.xml" />
-        <option value="C:/Maven/client-service/pom.xml" />
+        <option value="C:/Maven/interceptor/pom.xml" />
+        <option value="C:/Maven/currency-exchange-service/pom.xml" />
+        <option value="C:/Maven/currency-conversion-service/pom.xml" />
+        <option value="C:/Maven/spring-config-prop/pom.xml" />
+        <option value="C:/Maven/netflix-eureka-naming-server/pom.xml" />
+        <option value="C:/Maven/netflix-zuul-api-gateway-server/pom.xml" />
+        <option value="C:/Maven/test-service/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="1.8.0_211" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
